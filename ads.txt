@@ -1,0 +1,4 @@
+# ads.txt file for Irish Cafe website
+# Authorized Digital Sellers
+
+google.com, pub-1378497098838492, DIRECT, f08c47fec0942fa0
